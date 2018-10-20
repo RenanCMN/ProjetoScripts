@@ -1,0 +1,9 @@
+TABELAS
+
+CADASTRO : CAMPOS  -  VALORES
+--------------------------------------------------------
+		 |  ID          - INT AUTO-INCREMENT PRIMARY KEY; 
+		 |  Email       - VARCHAR(200);
+		 |  CPF 	    - VARCHAR(200);
+		 |  Endereco    - VARCHAR(200); 
+		 |  Senha       - VARCHAR(200);
